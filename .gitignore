@@ -1,0 +1,19 @@
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# MacOS
+.DS_Store
+
+# Node
+node_modules/
+*.log
+
+# Monitor specific
+gensyn-hub-monitor/credentials.json
+gensyn-hub-monitor/cache.json
+gensyn-hub-monitor/monitor.lock
+gensyn-hub-monitor/monitor.pid
+gensyn-hub-monitor/monitor.log
